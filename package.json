@@ -1,0 +1,19 @@
+{
+    "name": "eralith-theme",
+    "displayName": "Eralith Theme",
+    "description": "Visual theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.75.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Eralith Theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/color-theme.json"
+        }]
+    }
+}
