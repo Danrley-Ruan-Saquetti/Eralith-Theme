@@ -1,6 +1,6 @@
 {
     "name": "eralith-theme",
-    "displayName": "Eralith Theme",
+    "displayName": "EralithTheme",
     "description": "Visual theme for Visual Studio Code",
     "version": "0.0.1",
     "engines": {
@@ -20,5 +20,5 @@
         "type": "git",
         "url": "https://github.com/Danrley-Ruan-Saquetti/Eralith-Theme.git"
     },
-    "publisher": "Eralith Theme"
+    "publisher": "eraliththeme"
 }
