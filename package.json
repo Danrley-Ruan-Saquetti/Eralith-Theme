@@ -1,8 +1,15 @@
 {
     "name": "eralith-theme",
     "displayName": "EralithTheme",
-    "description": "Visual theme for Visual Studio Code",
-    "version": "0.0.1",
+    "description": "Visual dark theme for Visual Studio Code",
+    "version": "1.0.0",
+    "publisher": "eralith-theme",
+    "homepage": "https://github.com/Danrley-Ruan-Saquetti/Eralith-Theme",
+    "": "",
+    "author": {
+        "name": "Dan Ruan",
+        "email": "danrsaquetti@gmail.com"
+    },
     "engines": {
         "vscode": "^1.75.0"
     },
@@ -10,8 +17,11 @@
         "Themes"
     ],
     "contributes": {
+        "configuration": {
+            "title": "Eralith Theme"
+        },
         "themes": [{
-            "label": "EralithTheme",
+            "label": "Eralith Theme",
             "uiTheme": "vs-dark",
             "path": "./themes/color-theme.json"
         }]
@@ -19,6 +29,5 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Danrley-Ruan-Saquetti/Eralith-Theme.git"
-    },
-    "publisher": "eralith-theme"
+    }
 }
