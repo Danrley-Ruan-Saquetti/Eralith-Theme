@@ -5,7 +5,8 @@
     "version": "1.0.0",
     "publisher": "eralith-theme",
     "homepage": "https://github.com/Danrley-Ruan-Saquetti/Eralith-Theme",
-    "": "",
+    "keywords": ["Themes", "Dark", "Purple", "Editor"],
+    "license": "MIT",
     "author": {
         "name": "Dan Ruan",
         "email": "danrsaquetti@gmail.com"
