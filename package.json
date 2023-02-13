@@ -2,7 +2,7 @@
     "name": "eralith-theme",
     "displayName": "EralithTheme",
     "description": "Visual dark theme for Visual Studio Code",
-    "version": "1.0.0",
+    "version": "0.0.5",
     "publisher": "eralith-theme",
     "homepage": "https://github.com/Danrley-Ruan-Saquetti/Eralith-Theme",
     "keywords": ["Themes", "Dark", "Purple", "Editor"],
