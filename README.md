@@ -2,7 +2,7 @@
 
 Eralith Theme is a dark theme for visual studio code inspired by a panel with purple shades
 
-![Image](https://github.com/Danrley-Ruan-Saquetti/Eralith-Theme/blob/master/imgs/page-example.jpeg)
+![Image](./imgs/eralith-theme-example.png)
 
 ## License
 
