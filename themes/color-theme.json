@@ -2030,9 +2030,9 @@
     "tab.hoverBackground": "#261e2c", // bg.tertiary
     "tab.hoverForeground": "#dedede",
     "tab.hoverBorder": "#ff000000",
-    "scrollbarSlider.background": "#79797900",
-    "scrollbarSlider.hoverBackground": "#64646400",
-    "scrollbarSlider.activeBackground": "#bfbfbf00",
+    "scrollbarSlider.background": "#d1d1d140",
+    "scrollbarSlider.hoverBackground": "#d1d1d140",
+    "scrollbarSlider.activeBackground": "#d1d1d170",
     "progressBar.background": "#9000ff", // primary
     "widget.shadow": "#0000005c", // shadow
     "editorWidget.foreground": "#d1d1d1", // foreground
