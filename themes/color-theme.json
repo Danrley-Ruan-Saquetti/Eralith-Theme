@@ -1938,33 +1938,34 @@
     "editorLineNumber.foreground": "#666666", // text.inactive-icon
     "editorCursor.foreground": "#aeafad",
     "editorCursor.background": "#000000",
-    "editor.selectionBackground": "#41334b", // text.selected
-    "editor.inactiveSelectionBackground": "#41334b62", // text.selected
+    "editor.selectionBackground": "#736580b0", // text.selected
+    "editor.inactiveSelectionBackground": "#73658059", // text.selected
     "editorWhitespace.foreground": "#ffffff25",
-    "editor.selectionHighlightBackground": "#41334b", // text.selected
-    "editor.selectionHighlightBorder": "#594666",
-    "editor.findMatchBackground": "#41334b", // text.selected
-    "editor.findMatchBorder": "#715784",
-    "editor.findMatchHighlightBackground": "#41334b", // text.selected
+    "editor.selectionHighlightBackground": "#51475a62", // text.selected
+    "editor.selectionHighlightBorder": "#51475a9f",
+    "editor.findMatchBackground": "#736580b0", // text.selected
+    "editor.findMatchHighlightBackground": "#51475a62", // text.selected
+    "editor.findRangeHighlightBackground": "#312838b7",
+    "editor.findMatchBorder": "#51475a9f",
     "editor.findMatchHighlightBorder": "#ffffff00",
-    "editor.findRangeHighlightBackground": "#312838",
     "editor.findRangeHighlightBorder": "#ffffff00",
-    "editor.rangeHighlightBackground": "#aeafad42",
-    "editor.rangeHighlightBorder": "#aeafad3a",
-    "editor.hoverHighlightBackground": "#41334b", // text.selected
-    "editor.wordHighlightStrongBackground": "#41334b", // text.selected
-    "editor.wordHighlightStrongBorder": "#ffffff00",
-    "editor.wordHighlightBackground": "#41334b", // text.selected
+    "editor.rangeHighlightBackground": "#534d5f63",
+    "editor.rangeHighlightBorder": "#53525a83",
+    "editor.hoverHighlightBackground": "#41334bb7", // text.selected
+    "editor.wordHighlightBackground": "#41334bb7", // text.selected
+    "editor.wordHighlightBorder": "#41334bb7", // text.selected
+    "editor.wordHighlightStrongBackground": "#736580b0", // text.selected
+    "editor.wordHighlightStrongBorder": "#51475a9f",
     "editor.lineHighlightBackground": "#47474710",
     "editor.lineHighlightBorder": "#4d4d4d70",
     "editorLineNumber.activeForeground": "#b6b6b6",
     "editorLink.activeForeground": "#4da7f1",
-    "editorIndentGuide.background": "#343434",
-    "editorIndentGuide.activeBackground": "#707070",
+    "editorIndentGuide.background1": "#343434",
+    "editorIndentGuide.activeBackground1": "#707070",
     "editorRuler.foreground": "#323232",
     "editorBracketMatch.background": "#ffffff00",
     "editorBracketMatch.border": "#646464",
-    "editor.foldBackground": "#18141b", // bg.secondary
+    "editor.foldBackground": "#18141ba2", // bg.secondary
     "editorOverviewRuler.background": "#ffffff00",
     "editorOverviewRuler.border": "#ffffff00",
     "editorError.foreground": "#cf2828",
@@ -1994,7 +1995,7 @@
     "badge.background": "#9000ff", // primary
     "badge.foreground": "#ffffff",
     "terminal.foreground": "#f1f1f1",
-    "terminal.selectionBackground": "#42344b7c",
+    "terminal.selectionBackground": "#4b34347c",
     "terminalCursor.background": "#9000ff", // primary
     "terminalCursor.foreground": "#ffffff",
     "terminal.border": "#5a5a5a",
@@ -2103,11 +2104,11 @@
     "minimapGutter.addedBackground": "#1f7c0c",
     "minimapGutter.modifiedBackground": "#0c7d9d",
     "minimapGutter.deletedBackground": "#94151b",
-    "minimap.findMatchHighlight": "#41334b", // text.selected
+    "minimap.findMatchHighlight": "#41334b83", // text.selected
     "minimapSlider.activeBackground": "#4f465575",
     "minimapSlider.hoverBackground": "#41334b75", // text.selected
     "minimapSlider.background": "#41334b75", // text.selected
-    "minimap.selectionHighlight": "#41334b", // text.selected
+    "minimap.selectionHighlight": "#41334b75", // text.selected
     "minimap.errorHighlight": "#cf2828",
     "minimap.warningHighlight": "#ccb228",
     "minimap.background": "#211b26", // bg.primary
